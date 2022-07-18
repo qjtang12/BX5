@@ -8,3 +8,11 @@ I will keep building this project, bare with me please. Highly appreciate any fe
 ## Getting Started
 
 4BeamBreak_RTC.ino is the Arduino script operating the system.
+
+
+
+
+
+
+## Acknowledgement
+For the real time clock (RTC) module in this project, I used the Library made by Henning Karlsen. The library is included here to download but can also be found and downloaded at www.rinkydinkelectronics.com
