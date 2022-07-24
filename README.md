@@ -6,6 +6,8 @@ The manuscript is now published online at:https://www.future-science.com/doi/10.
 I will keep building this project, bare with me please. Highly appreciate any feedbacks on optimizing the system. I am a biology major, so this system is not optimized in engineer's eyes for sure. However, this also means you don't need engineer background to get it going at least.
 
 ## Getting Started
+B5_circuit.png is the diagram showing the connection of the core part. To make it less messy, I only drew two ethernet jacks, just use the same idea, to add two more when making your own one.
+
 4BeamBreak_RTC.ino is the Arduino script operating the system.
 
 You will need the Arduino IDE to edit/upload the script to your Arduino.
