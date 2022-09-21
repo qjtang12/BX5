@@ -16,10 +16,14 @@ A real time clock (RTC) module is used to track the time of data entry. You will
 
 Follow the instruction here to add the library to your Arduino IDE.https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
 
+## Data processing
+To convert the data recorded by B5 to format that readable by ClockLab analysis, use the matlab script provided. Example input and output data is provided. The concept is easy. Follow the guideline at ClockLab website and you can easily write your code in other languages.
 
-
-
+https://actimetrics.com/text-based-clocklab-data-format/
 
 
 ## Acknowledgement
 For the real time clock (RTC) module in this project, I used the Library made by Henning Karlsen. The library is included here to download but can also be found and downloaded at http://www.rinkydinkelectronics.com/library.php?id=73
+
+## Current recognized issues
+2022.09.21: Although it is a 5V circuit, using 6V DC power for the system seems to be not stable. Try 9V.
